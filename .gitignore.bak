@@ -1,0 +1,8 @@
+*.pt
+**/logs
+**/log
+**/data
+**/checkpoints
+**/result
+**/tboard
+**/.ipynb_checkpoints
